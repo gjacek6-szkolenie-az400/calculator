@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/organizacja-jacka-az400/FirstProject/_apis/build/status/gjacek6-szkolenie-az400.calculator?branchName=feature%2Fbuggy3-feature)](https://dev.azure.com/organizacja-jacka-az400/FirstProject/_build/latest?definitionId=10&branchName=feature%2Fbuggy3-feature)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
